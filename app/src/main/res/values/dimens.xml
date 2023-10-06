@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_text_size">25sp</dimen>
+    <dimen name="splash_padding_main">50dp</dimen>
+    <dimen name="iv_margin_bottom">25dp</dimen>
+    <dimen name="iv_margin_top">125dp</dimen>
+    <dimen name="card_corner_radius">10dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+    <dimen name="iv_size">50dp</dimen>
+    <dimen name="tv_text_size">20sp</dimen>
+    <dimen name="item_padding">10dp</dimen>
+    <dimen name="iv_pager_height">500dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+</resources>

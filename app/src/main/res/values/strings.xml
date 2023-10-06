@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hearthstone Card Browser</string>
+    <string name="loading_description">Loading into Hearthstone Card Browser!</string>
+    <string name="no_connection">No network connection...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_description">Application created to browse cards from Hearthstone game.</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="cardback_name">Cardback name</string>
+    <string name="items">Items</string>
+    <string name="description">Description</string>
+    <string name="do_you_really_want_to_exit">Do you really want to exit?</string>
+    <string name="cancel">Cancel</string>
+</resources>

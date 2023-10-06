@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/splash_padding_main"
+    tools:context=".SplashScreenActivity">
+
+    <ImageView
+        android:layout_marginTop="@dimen/iv_margin_top"
+        android:layout_marginBottom="@dimen/iv_margin_bottom"
+        android:id="@+id/ivSplash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/hearthstone_logo_text" />
+
+    <TextView
+        android:id="@+id/tvSplash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/loading_description"
+        android:textColor="@color/dark_lava"
+        android:gravity="center"/>
+</LinearLayout>
